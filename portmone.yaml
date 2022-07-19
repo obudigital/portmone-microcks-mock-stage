@@ -2,10 +2,10 @@ openapi: 3.1.0
 x-stoplight:
   id: i9mp04xl94sy9
 info:
-  title: portmone-direct
+  title: portmone-direct-stage
   version: '1.0'
   description: ''
-  summary: portmone direct api
+  summary: portmone direct stage api
 servers:
   - url: 'http://localhost:3000'
 paths:
